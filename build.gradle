@@ -39,8 +39,8 @@ sonarqube {
         property "sonar.exclusions", "**/*Main.java"
 
         property 'sonar.host.url', 'http://localhost:9000'
-        property 'sonar.login','8934b50c504b3affd56434a98fd991a3c0837b17'
-        property 'sonar.projectKey','BuilderPattern'
+        property 'sonar.login','b9aaf0b840472f4242635c3f29e7a7ea35ba2fab'
+        property 'sonar.projectKey','StatePattern'
     }
 }
 

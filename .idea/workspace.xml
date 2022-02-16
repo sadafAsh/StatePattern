@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="daefe0bd-4f1a-4113-8be1-617e06f12040" name="Default Changelist" comment="" />
+    <list default="true" id="daefe0bd-4f1a-4113-8be1-617e06f12040" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +56,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="25BphIddr0xL7iXy28ybgf2oSpF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -61,6 +69,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Player" />
@@ -77,46 +86,24 @@
       <recent name="C:\sadaf\StatePattern\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.StatePattern [sonarqube]">
-    <configuration name="LightBulbTest.displayState" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.soj.pattern.state.LightBulbTest.displayState&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="LightBulbTest.setCurrentState" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.soj.pattern.state.LightBulbTest.setCurrentState&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle sonarqube              -Dsonar.projectKey=StatePattern              -Dsonar.host.url=http://localhost:9000              -Dsonar.login=b9aaf0b840472f4242635c3f29e7a7ea35ba2fab" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soj.pattern.state.Main" />
+      <module name="StatePattern.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soj.pattern.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="LightBulbTest.testToToggle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -158,6 +145,25 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="StatePattern [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="StatePattern [sonarqube]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -179,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.StatePattern [build]" />
         <item itemvalue="Gradle.StatePattern [sonarqube]" />
         <item itemvalue="Gradle.LightBulbTest.testToToggle" />
         <item itemvalue="Gradle.OnStateTest.transition" />
-        <item itemvalue="Gradle.LightBulbTest.setCurrentState" />
-        <item itemvalue="Gradle.LightBulbTest.displayState" />
       </list>
     </recent_temporary>
   </component>
@@ -221,22 +227,22 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="464" y="117" key="FileChooserDialogImpl/0.0.1368.720@0.0.1368.720" timestamp="1645011201778" />
-    <state width="1325" height="176" key="GridCell.Tab.0.bottom" timestamp="1645046769954">
+    <state width="1325" height="176" key="GridCell.Tab.0.bottom" timestamp="1645047511650">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645046769954" />
-    <state width="1325" height="176" key="GridCell.Tab.0.center" timestamp="1645046769954">
+    <state width="1325" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645047511650" />
+    <state width="1325" height="176" key="GridCell.Tab.0.center" timestamp="1645047511649">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645046769954" />
-    <state width="1325" height="176" key="GridCell.Tab.0.left" timestamp="1645046769954">
+    <state width="1325" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645047511649" />
+    <state width="1325" height="176" key="GridCell.Tab.0.left" timestamp="1645047511649">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645046769954" />
-    <state width="1325" height="176" key="GridCell.Tab.0.right" timestamp="1645046769954">
+    <state width="1325" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645047511649" />
+    <state width="1325" height="176" key="GridCell.Tab.0.right" timestamp="1645047511650">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645046769954" />
+    <state width="1325" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645047511650" />
     <state x="455" y="92" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1645027774114">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
