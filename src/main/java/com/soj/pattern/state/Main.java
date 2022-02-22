@@ -15,9 +15,4 @@ public class Main {
        logger.debug(display2);
 
     }
-
-//gradle sonarqube
-//            -Dsonar.projectKey=StatePattern
-//            -Dsonar.host.url=http://localhost:9000
-//            -Dsonar.login=b9aaf0b840472f4242635c3f29e7a7ea35ba2fab
 }

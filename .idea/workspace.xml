@@ -2,9 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daefe0bd-4f1a-4113-8be1-617e06f12040" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/pattern/state/OnState.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/soj/pattern/state/OnState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/soj/pattern/state/LightBulbTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/soj/pattern/state/LightBulbTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jacoco/test.exec" beforeDir="false" afterPath="$PROJECT_DIR$/build/jacoco/test.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.pattern.state/OnState.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.pattern.state/OnState.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.pattern.state/OnState.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.pattern.state/OnState.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/jacocoTestReport.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/jacocoTestReport.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.pattern.state.LightBulbTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.pattern.state.LightBulbTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.pattern.state.OffStateTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.pattern.state.OffStateTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.pattern.state.OnStateTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.pattern.state.OnStateTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.pattern.state.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.pattern.state.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sonar/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/sonar/report-task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.pattern.state.LightBulbTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.pattern.state.LightBulbTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.pattern.state.OffStateTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.pattern.state.OffStateTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.pattern.state.OnStateTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.pattern.state.OnStateTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/pattern/state/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soj/pattern/state/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/pattern/state/OnState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soj/pattern/state/OnState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/soj/pattern/state/LightBulbTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/soj/pattern/state/LightBulbTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +87,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="25BphIddr0xL7iXy28ybgf2oSpF" />
@@ -70,6 +105,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Player" />
@@ -91,7 +127,7 @@
       <command value="gradle sonarqube              -Dsonar.projectKey=StatePattern              -Dsonar.host.url=http://localhost:9000              -Dsonar.login=b9aaf0b840472f4242635c3f29e7a7ea35ba2fab" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Gradle.StatePattern [sonarqube]">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soj.pattern.state.Main" />
       <module name="StatePattern.main" />
@@ -185,9 +221,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.StatePattern [sonarqube]" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.StatePattern [build]" />
-        <item itemvalue="Gradle.StatePattern [sonarqube]" />
         <item itemvalue="Gradle.LightBulbTest.testToToggle" />
         <item itemvalue="Gradle.OnStateTest.transition" />
       </list>
@@ -216,33 +252,53 @@
       <option name="presentableId" value="Default" />
       <updated>1645010452004</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1645047530530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645047530530</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="489" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1645024221850">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="489" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1368.720@0.0.1368.720" timestamp="1645024221850" />
+    <state x="351" y="0" key="CommitChangelistDialog2" timestamp="1645047530214">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="351" y="0" key="CommitChangelistDialog2/0.0.1368.720@0.0.1368.720" timestamp="1645047530214" />
     <state x="464" y="117" key="FileChooserDialogImpl" timestamp="1645011201778">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="464" y="117" key="FileChooserDialogImpl/0.0.1368.720@0.0.1368.720" timestamp="1645011201778" />
-    <state width="1325" height="176" key="GridCell.Tab.0.bottom" timestamp="1645047511650">
+    <state width="1325" height="176" key="GridCell.Tab.0.bottom" timestamp="1645047990634">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645047511650" />
-    <state width="1325" height="176" key="GridCell.Tab.0.center" timestamp="1645047511649">
+    <state width="1325" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645047990634" />
+    <state width="1325" height="176" key="GridCell.Tab.0.center" timestamp="1645047990634">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645047511649" />
-    <state width="1325" height="176" key="GridCell.Tab.0.left" timestamp="1645047511649">
+    <state width="1325" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645047990634" />
+    <state width="1325" height="176" key="GridCell.Tab.0.left" timestamp="1645047990634">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645047511649" />
-    <state width="1325" height="176" key="GridCell.Tab.0.right" timestamp="1645047511650">
+    <state width="1325" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645047990634" />
+    <state width="1325" height="176" key="GridCell.Tab.0.right" timestamp="1645047990634">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645047511650" />
+    <state width="1325" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645047990634" />
+    <state x="276" y="95" key="Vcs.Push.Dialog.v2" timestamp="1645047541441">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="276" y="95" key="Vcs.Push.Dialog.v2/0.0.1368.720@0.0.1368.720" timestamp="1645047541441" />
     <state x="455" y="92" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1645027774114">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
@@ -251,9 +307,17 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="92" y="92" width="1184" height="536" key="dock-window-1/0.0.1368.720@0.0.1368.720" timestamp="1645026591695" />
-    <state x="340" y="160" width="672" height="677" key="run.anything.popup" timestamp="1645046769933">
+    <state x="404" y="163" key="git4idea.merge.GitPullDialog" timestamp="1645047559282">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state x="340" y="160" width="672" height="677" key="run.anything.popup/0.0.1368.720@0.0.1368.720" timestamp="1645046769933" />
+    <state x="404" y="163" key="git4idea.merge.GitPullDialog/0.0.1368.720@0.0.1368.720" timestamp="1645047559282" />
+    <state x="66" y="0" key="new project wizard" timestamp="1645376713622">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="66" y="0" key="new project wizard/0.0.1368.720@0.0.1368.720" timestamp="1645376713622" />
+    <state x="340" y="160" width="672" height="677" key="run.anything.popup" timestamp="1645047864435">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="340" y="160" width="672" height="677" key="run.anything.popup/0.0.1368.720@0.0.1368.720" timestamp="1645047864435" />
   </component>
 </project>

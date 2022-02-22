@@ -35,7 +35,7 @@ class LightBulbTest {
         Map<State,State> map=new HashMap<>();
         map.put(onState,offState);
         bulb.toggle();
-        Assertions.assertEquals(map.size(),1);
+        Assertions.assertEquals(1,map.size());
         Assertions.assertTrue(true,"map is been called");
 
     }

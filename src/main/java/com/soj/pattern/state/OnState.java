@@ -1,6 +1,5 @@
 package com.soj.pattern.state;
 
-import java.sql.Statement;
 
 public class OnState implements State {
     LightBulb bulb;
