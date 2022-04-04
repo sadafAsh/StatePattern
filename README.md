@@ -15,9 +15,7 @@ JunitTest:
    There is JUnit Test also present for all "State Pattern"  and test coverage are 100%
   successful by jacoco reports.
   
-  
-   The  Junit Test is done of all the entities in  "Singleton Pattern" project and test coverage 
-  is 100% successful in jacoco report.
+ 
   
          
     SONARQUBE :
